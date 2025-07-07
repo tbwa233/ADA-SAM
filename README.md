@@ -1,5 +1,5 @@
 # ADA-SAM
-This repository contains the implementation of PolyCL. Our publications for this project are listed below:
+This repository contains the implementation of ADA-SAM. Our publications for this project are listed below:
 
 Our proposed model performs joint semi-supervised classification and segmentation by employs a novel gradient feedback mechanism which forms a learnable connection between segmentation and classification branches by using the segmentation gradients to guide and improve the classification predictions.
 
